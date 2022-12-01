@@ -100,4 +100,7 @@ risk of interfering with the robot.
 ![output](?raw=true)
 ![output](?raw=true)
 
+### Result:
+An environment for welding operation using robodk is Designed & simulated.
+
 
