@@ -96,4 +96,8 @@ risk of interfering with the robot.
 
 ### Results of simulation 
 
+![output](?raw=true)
+![output](?raw=true)
+![output](?raw=true)
+
 
